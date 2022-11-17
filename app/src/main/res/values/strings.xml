@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Adivinha????</string>
+    <string name="btn_jogar">Jogar</string>
+    <string name="btn_voltar">Voltar</string>
+    <string name="maior">O número é maior</string>
+    <string name="menor">O número é menor</string>
+    <string name="resultado">Você acertou o número</string>
+    <string name="parabens">PARABÉNS</string>
+</resources>
